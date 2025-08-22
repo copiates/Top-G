@@ -21,5 +21,5 @@ The frameworks we used is streamlit.
 
 ■ How to run the code:
 
-1)The jupyter notebook code can be run in either jupyter or colab to train the model and predict the values.
-2)The streamlit can be run via vs code after putting the code in the platform and it gives the models predictions on the stay duration , adminstrative delay , estimated costs etc in the form of a dashboard.
+The jupyter notebook code can be run in either jupyter or colab to train the model and predict the values.
+The streamlit can be run via vs code after putting the code in the platform and it gives the models predictions on the stay duration , adminstrative delay , estimated costs etc in the form of a dashboard.
