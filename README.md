@@ -10,12 +10,7 @@ We used xgboost model , we trained it with the given dataset then we input the f
 
 ■ The libraries and frameworks used:
 
-The libraries used are:
-1.pandas
-2.sklearn
-3.xgboost
-4.seaborn
-5.matplotlib
+The libraries used are: pandas ,sklearn ,xgboost ,seaborn and matplotlib.
 
 The frameworks we used is streamlit.
 
